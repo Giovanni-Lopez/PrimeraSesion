@@ -1,0 +1,6 @@
+c:\users\itca\documents\visual studio 2015\Projects\PrimeraSesion\PrimeraSesion\bin\Debug\PrimeraSesion.exe.config
+c:\users\itca\documents\visual studio 2015\Projects\PrimeraSesion\PrimeraSesion\bin\Debug\PrimeraSesion.exe
+c:\users\itca\documents\visual studio 2015\Projects\PrimeraSesion\PrimeraSesion\bin\Debug\PrimeraSesion.pdb
+c:\users\itca\documents\visual studio 2015\Projects\PrimeraSesion\PrimeraSesion\obj\Debug\PrimeraSesion.csprojResolveAssemblyReference.cache
+c:\users\itca\documents\visual studio 2015\Projects\PrimeraSesion\PrimeraSesion\obj\Debug\PrimeraSesion.exe
+c:\users\itca\documents\visual studio 2015\Projects\PrimeraSesion\PrimeraSesion\obj\Debug\PrimeraSesion.pdb
